@@ -1,2 +1,2 @@
-print("hello world!")
-print("vanky")
+print("van ky")
+print("world")
